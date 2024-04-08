@@ -19,3 +19,7 @@ data-pipeline/URBANSOUND8K/*
 data-pipeline/VOICE/*
 data-pipeline/AudioLDM/*/*
 data-pipeline/GOOGLE_SPEECH/*
+data-pipeline/EMERGENCY/*/*
+data-pipeline/Emergency_Task/*/*
+data-pipeline/URBAN_NOISE/*/*
+data-pipeline/URBAN_NOISE/Isolated urban sound database.zip?download=1
