@@ -1,0 +1,21 @@
+
+# ignore venv libs
+venv/
+
+# ignore env
+.env
+
+*/FSD50k.*/*
+data-pipeline/*/FSD50K.*
+data-pipeline/*/train_glass
+data-pipeline/FSD50k/unsplit.zip
+
+data-pipeline/SESA/*
+data-pipeline/FSD50k/*/*
+data-pipeline/FSD50k/*.zip
+
+data-pipeline/GUNSHOTS/*
+data-pipeline/URBANSOUND8K/*
+data-pipeline/VOICE/*
+data-pipeline/AudioLDM/*/*
+data-pipeline/GOOGLE_SPEECH/*
