@@ -23,3 +23,6 @@ data-pipeline/EMERGENCY/*/*
 data-pipeline/Emergency_Task/*/*
 data-pipeline/URBAN_NOISE/*/*
 data-pipeline/URBAN_NOISE/Isolated urban sound database.zip?download=1
+
+testing_*.npy
+training_*.npy
